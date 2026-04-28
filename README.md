@@ -1,1 +1,1 @@
-# Dever-1
+# JavaScript Deveres
